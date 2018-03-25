@@ -1,7 +1,0 @@
-D:\1104105319\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-D:\1104105319\MUS1062-1\work2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-D:\1104105319\MUS1062-1\work2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-D:\1104105319\MUS1062-1\work2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-D:\1104105319\MUS1062-1\work2\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
-D:\1104105319\MUS1062-1\work2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-D:\1104105319\MUS1062-1\work2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
